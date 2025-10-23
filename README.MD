@@ -11,7 +11,7 @@ This projects demonstrates a simple Python automation pipeline that:
 ### Housekeeping
 
 For setting up the Python environment, see
-[Setup](setup_guide)
+[Setup](setup_guide.md)
 
 ## Main Steps
 
